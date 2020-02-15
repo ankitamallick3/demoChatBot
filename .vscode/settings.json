@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5294f144-6dae-4837-ac0d-ded017f4ccaa/resourceGroups/ChatBot/providers/Microsoft.Web/sites/ChatBotUITest",
+    "appService.deploySubpath": ""
+}
